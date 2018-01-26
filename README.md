@@ -20,6 +20,7 @@ Lastly, when saving data to a file, the program creates a file in which all the 
 If the user however wants to create their own file and then load the data, the file should be formatted as followed:
 
 Customer1,id1,account number1,balance
+
 Customer2,id2,account number2,balance
 
 There's also an example file named 'example.txt' in the Bank directory.
